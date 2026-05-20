@@ -1,2 +1,2 @@
 # WEB---development
-This project is a storage for my university projects. 
+This repository is a storage for my university projects. 
