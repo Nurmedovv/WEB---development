@@ -1,3 +1,4 @@
+```markdown
 # Лабораторные работы по веб-разработке
 
 Репозиторий с выполненными лабораторными работами по курсу веб-разработки.  
@@ -39,6 +40,56 @@ npm start
 
 ## 👤 Автор
 - **Нурмедов Азат** 
-- **tg:@fakevv**
-- **Instagram:nurmedovv**
+- **tg:** @fakevv
+- **Instagram:** nurmedovv
+- **Email:** azatnurmedovv2554@gmail.com
 - **Все работы выполнены самостоятельно в соответствии с методическими указаниями.**
+
+---
+
+# Web Development Laboratory Works
+
+Repository with completed laboratory works for the web development course.  
+**Variant 8**: Airline.
+
+## 🛠 Tech Stack
+- HTML5, CSS3 (Flexbox, adaptive and responsive layout)
+- JavaScript (ES6+, OOP, DOM, AJAX)
+- Node.js, Express.js
+- EJS template engine
+- WebSocket (Socket.IO)
+- Webpack, RxJS
+
+## 📚 List of Works
+
+- **Lab 1**: Basic text layout using HTML and CSS.
+- **Lab 2**: Table and block responsive layout of the mockup.
+- **Lab 3**: Adaptive layout using Flexbox. JS basics: working with hashes and functions for the "Airline" domain.
+- **Lab 4**: OOP in JavaScript. Implementation of the `THashStorage` class for storing and managing data.
+- **Lab 5**: Dynamic generation of HTML forms based on a JS array via DOM.
+- **Lab 6**: Form data validation in JS and building a dynamic multi-level menu from an array.
+- **Lab 7**: Creating a basic Single Page Application (SPA) architecture.
+- **Lab 8**: Working with AJAX. Loading HTML pages and data from a JSON file. Initial deployment of the SPA on an Express server.
+- **Lab 9**: Developing a web application using Express.js. Implementing a REST API (CRUD) with data stored in a JSON file and rendered via EJS.
+- **Lab 10**: Developing a WebSocket chat using Express and Socket.IO.
+- **Lab 11**: Setting up the Webpack bundler. Converting the client-side to reactive programming using the RxJS library (streams, `ajax`, `combineLatest`, `switchMap`).
+
+## 🚀 How to Run
+
+For laboratory works requiring Node.js (Labs 8–11), run the following commands in the terminal:
+
+```bash
+npm install
+npm run build
+npm start
+```
+
+After starting, the server will be available at `http://localhost:3000` (or another port specified in `server.js`).
+
+## 👤 Author
+- **Azat Nurmedov** 
+- **Telegram:** @fakevv
+- **Instagram:** nurmedovv
+- **Email:** azatnurmedovv2554@gmail.com
+- **All works were completed independently in accordance with the methodological guidelines.**
+```
