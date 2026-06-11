@@ -1,16 +1,21 @@
-
 # Лабораторные работы по веб-разработке
 
 Репозиторий с выполненными лабораторными работами по курсу веб-разработки.  
 **Вариант 8**: Авиакомпания.
 
 ## 🛠 Стек технологий
-- HTML5, CSS3 (Flexbox, адаптивная и резиновая верстка)
-- JavaScript (ES6+, ООП, DOM, AJAX)
-- Node.js, Express.js
-- Шаблонизатор EJS
-- WebSocket (Socket.IO)
-- Webpack, RxJS
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="30"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="30"/>
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" height="30"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" height="30"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" height="30"/>
+  <img src="https://img.shields.io/badge/RxJS-D81B60?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" height="30"/>
+</p>
 
 ## 📚 Список работ
 
@@ -40,7 +45,7 @@ npm start
 
 ## 👤 Автор
 - **Нурмедов Азат** 
-- **tg:** @fakevv
+- **Telegram:** @fakevv
 - **Instagram:** nurmedovv
 - **Email:** azatnurmedovv2554@gmail.com
 - **Все работы выполнены самостоятельно в соответствии с методическими указаниями.**
@@ -53,12 +58,18 @@ Repository with completed laboratory works for the web development course.
 **Variant 8**: Airline.
 
 ## 🛠 Tech Stack
-- HTML5, CSS3 (Flexbox, adaptive and responsive layout)
-- JavaScript (ES6+, OOP, DOM, AJAX)
-- Node.js, Express.js
-- EJS template engine
-- WebSocket (Socket.IO)
-- Webpack, RxJS
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="30"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="30"/>
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" height="30"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" height="30"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" height="30"/>
+  <img src="https://img.shields.io/badge/RxJS-D81B60?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" height="30"/>
+</p>
 
 ## 📚 List of Works
 
